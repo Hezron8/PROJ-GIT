@@ -1,0 +1,15 @@
+*{margin: 0px;
+padding: 0px;
+box-sizing: border-box;}
+
+li:first-child {
+    color: red;
+}
+
+span:first-of-type{
+    color: rgb(255, 3, 3);
+}
+
+p:first-of-type{
+    color: rgb(66, 3, 255);
+}

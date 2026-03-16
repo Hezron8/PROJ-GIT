@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a:active {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: rgb(9, 9, 9);
+}
+
+
+input:focus {
+    border: 1px solid red;
+    outline: none;
+}
+
